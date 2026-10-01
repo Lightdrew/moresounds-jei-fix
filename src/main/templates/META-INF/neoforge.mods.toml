@@ -75,7 +75,7 @@ side = "CLIENT"
 [[dependencies.${mod_id}]]
 modId = "more_sounds"
 type = "required"
-versionRange = "*"
+versionRange = "(,1.21.x-0.3.0-beta]"
 ordering = "NONE"
 side = "CLIENT"
 
